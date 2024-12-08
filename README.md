@@ -67,14 +67,14 @@ A comprehensive **Indian Language Dictionary** ensures seamless translation of a
 ---
 
 ## 🖼 **Screenshots**  
-### Flight Arrival Display  
-![Flight Arrival Display](https://www.netlegends.in/assets/images/products/fids1.jpeg)  
+### Flight Arrival Display   
+<img src="https://www.netlegends.in/assets/images/products/fids1.jpeg" alt="Flight Arrival Display" width="600">
 
-### Flight Departure Display  
-![Flight Departure Display](https://www.netlegends.in/assets/images/products/fids2.jpeg)  
+### Flight Belt Display  
+<img src="https://www.netlegends.in/assets/images/products/fids2.jpeg" alt="Flight Arrival Display" width="600">
 
-### Baggage Claim Display  
-![Baggage Claim Display](https://www.netlegends.in/assets/images/products/fids3.jpeg)  
+### CheckIn Display  
+<img src="https://www.netlegends.in/assets/images/products/fids3.jpeg" alt="Flight Arrival Display" width="600">
 
 ---
 
